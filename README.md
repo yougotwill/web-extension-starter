@@ -12,6 +12,7 @@ Full credit to [Henry Wenz](https://github.com/HaNdTriX) for [Web Extension Tool
 - React
 - Typescript
 - Yarn
+- @ianvs/prettier-plugin-sort-imports
 
 ## Install
 
