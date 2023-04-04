@@ -20,7 +20,6 @@
     "default_title": "__MSG_browserActionTitle__",
     "default_popup": "public/popup.html"
   },
-  "options_page": "public/options.html",
   "options_ui": {
     "page": "public/options.html",
     "chrome_style": true
